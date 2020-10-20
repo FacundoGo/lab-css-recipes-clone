@@ -1,0 +1,26 @@
+.intro {
+    background-image: url("/apple-pie/images/apple-pie.jpg");
+    width: 200;
+}
+h1 {
+    color: red;
+    font-size: 2em;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    margin: 5%;
+}
+.recipeStatistics .ingredientStatistics {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.story {
+    border-bottom: solid;
+}
+.recipe {
+    border-bottom: solid;
+}
